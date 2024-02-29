@@ -1,0 +1,29 @@
+{
+  "name": "test-console",
+  "version": "1.0.1",
+  "description": "just test console log to exploration purpose, create by ferdimanaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferdimanaaa/test-console.git"
+  },
+  "keywords": [
+    "exploration",
+    "dummy",
+    "console",
+    "log"
+  ],
+  "author": "ferdimanaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferdimanaaa/test-console/issues"
+  },
+  "homepage": "https://github.com/Ferdimanaaa/test-console#readme",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  }
+}
